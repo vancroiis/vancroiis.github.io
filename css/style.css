@@ -205,7 +205,8 @@ body {
     }
 }
  .is-sticky #header {
-     background: #adadad;
+     background: white;
+    border: outset;
 }
 /*-------------------------------------------------------------- # Navigation Menu --------------------------------------------------------------*/
 /* Nav Menu Essentials */
