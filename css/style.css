@@ -256,8 +256,8 @@ body {
 }
 /* Nav Meu Container */
  #nav-menu-container {
-     float: right;
-     margin: 5px 0;
+     float: right !important;
+     margin: 5px 0 !important;
       width: inherit !important;
 }
  @media (max-width: 768px) {
