@@ -258,7 +258,7 @@ body {
  #nav-menu-container {
      float: right;
      margin: 5px 0;
-      width: inherit;
+      width: inherit !important;
 }
  @media (max-width: 768px) {
      #nav-menu-container {
