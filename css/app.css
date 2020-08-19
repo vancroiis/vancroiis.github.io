@@ -2418,8 +2418,8 @@ tbody .separator:hover{
     display:inline
 }
 #header nav > ul > li:hover > a,#header nav > ul > li:focus > a,#header nav > ul > li:active > a,#header nav > ul > li.active > a{
-    background:#00313d;
-    color:#ffeed2;
+    background:#2563a7;
+    color:#2563a7;
     outline:none;
 }
 #header nav > ul > li:hover > a:after,#header nav > ul > li:focus > a:after,#header nav > ul > li:active > a:after,#header nav > ul > li.active > a:after{
