@@ -277,7 +277,7 @@ body {
      outline: none;
 }
  .nav-menu a:hover, .nav-menu li:hover > a, .nav-menu .menu-active > a {
-     color: #262929;
+     color: white !important;
 }
  .nav-menu ul {
      margin: 4px 0 0 15px;
