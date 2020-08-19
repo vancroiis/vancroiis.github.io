@@ -409,7 +409,7 @@ body {
  .section-title-divider {
      width: 50px;
      height: 3px;
-     background: #03C4EB;
+     background: #f69206;
      margin: 0 auto;
      margin-bottom: 20px;
 }
@@ -797,7 +797,7 @@ body {
 }
 
 #footer .footer-top h4::after {
-  background: #18d26e;
+  background: #f69206;
   width: 60px;
 }
 
