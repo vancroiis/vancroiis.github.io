@@ -2419,7 +2419,7 @@ tbody .separator:hover{
 }
 #header nav > ul > li:hover > a,#header nav > ul > li:focus > a,#header nav > ul > li:active > a,#header nav > ul > li.active > a{
     background:#2563a7;
-    color: white;
+    color: white !important;
     outline:none;
 }
 #header nav > ul > li:hover > a:after,#header nav > ul > li:focus > a:after,#header nav > ul > li:active > a:after,#header nav > ul > li.active > a:after{
