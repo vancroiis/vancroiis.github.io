@@ -10,7 +10,7 @@ body {
      font-family: "Open Sans", sans-serif;
 }
  a {
-     color: #03C4EB;
+     color: black;
      transition: 0.5s;
 }
  a:hover, a:active, a:focus {
