@@ -3,7 +3,9 @@
     background-size: cover;
     padding: 38px 0 41em 0;}
 
-
+body.mobile-nav-active #mobile-nav {
+    left: 0;
+}
 body {
      background: #fff;
      color: #666666;
