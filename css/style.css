@@ -346,6 +346,7 @@ body {
 }
  #mobile-nav ul li a {
      color: white !important;
+  background-color: black;
      font-size: 16px;
      overflow: hidden;
      padding: 10px 22px 10px 15px;
