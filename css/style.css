@@ -275,7 +275,8 @@ body {
     color: #000;
     font-family: raleway,sans-serif;
     font-weight: 300;
-    font-size: 14px;
+    font-size: 15px;
+  
     outline: none;
 }
  .nav-menu a:hover, .nav-menu li:hover > a, .nav-menu .menu-active > a {
